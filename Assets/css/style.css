@@ -30,6 +30,7 @@
 }
 body {
     background-image: url("Assets/Images/circle-blues.png");
+    background-color: grey;
     width: 960px;
     margin: 20px;
     padding: 50px;
@@ -49,7 +50,7 @@ footer {
 
 #content {
     margin: 100px;
-    height: 350px;
+    height: 400px;
     width:960px;
     background-color: white; 
     border: solid black;
